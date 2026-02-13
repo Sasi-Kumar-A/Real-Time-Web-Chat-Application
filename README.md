@@ -25,6 +25,8 @@ A fully functional real-time web chat application that enables users to communic
 
 5️⃣ Open in browser
   http://localhost:3000
+
+  
 **User Details**
 
 <img width="1485" height="903" alt="Username" src="https://github.com/user-attachments/assets/9c1a86c7-88e5-434c-ac15-acf2d56dd4a1" />
@@ -33,7 +35,7 @@ A fully functional real-time web chat application that enables users to communic
 
 <img width="1520" height="902" alt="Single chat" src="https://github.com/user-attachments/assets/1f65ed4f-3ad8-4ac6-ba61-bba2428cedd1" />
 
-**Model **
+**Model**
 
 <img width="1529" height="909" alt="Multi chat" src="https://github.com/user-attachments/assets/513dc8f7-d4fb-4dda-b269-2f3eb55adc1e" />
 
