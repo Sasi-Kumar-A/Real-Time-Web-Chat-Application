@@ -45,4 +45,4 @@ A fully functional real-time web chat application that enables users to communic
 **License**
 
 This project is licensed under the MIT License – you are free to use, modify, and distribute this software.
->>>>>>> 2eebbbb2ede520f48192fcf35101a0a1d4ecdfe0
+
